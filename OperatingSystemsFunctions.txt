@@ -1,4 +1,9 @@
-One operating system funstion is managing programs. 
+One operating system function is managing programs. 
 There are two ways an operating system can manage programs, the first is a single tasking operating system and the second is a multitasking operating system.
 A sisngle task operating system cannot run more than one program at a time, so if you wanted to switch between a couple task such as watching a show and checking email you would have to close one to do the other.
 With multitasking operating systems you can run multiple programs at once and dont have to exit one before starting up a new one. 
+
+Another function is managing memory
+ An operating system manages memory by assigning data and instructions to a specific area of memory as it is being processed. 
+ After that it monitors the contents of the memory, then when the processory no longer needs the data it releases the saved items that were being monitored in memory. 
+ There is virtual memory that an operating system uses to allocate a portion of the storage to a hard drive or ubs flash drive that will function as RAM. So part of the memory will be in physical RAM and the OS wll put the rest of the program on the hard drive or virtual memory.
