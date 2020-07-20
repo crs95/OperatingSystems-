@@ -1,0 +1,4 @@
+One operating system funstion is managing programs. 
+There are two ways an operating system can manage programs, the first is a single tasking operating system and the second is a multitasking operating system.
+A sisngle task operating system cannot run more than one program at a time, so if you wanted to switch between a couple task such as watching a show and checking email you would have to close one to do the other.
+With multitasking operating systems you can run multiple programs at once and dont have to exit one before starting up a new one. 
