@@ -7,3 +7,9 @@ Another function is managing memory
  An operating system manages memory by assigning data and instructions to a specific area of memory as it is being processed. 
  After that it monitors the contents of the memory, then when the processory no longer needs the data it releases the saved items that were being monitored in memory. 
  There is virtual memory that an operating system uses to allocate a portion of the storage to a hard drive or ubs flash drive that will function as RAM. So part of the memory will be in physical RAM and the OS wll put the rest of the program on the hard drive or virtual memory.
+
+One more function of an operating system is coordinating tasks, this means that the OS determines the order that tasks are processed. This is usually when two things are requested at once it must order the tasks and complete one before finishing the other. 
+An example of this is when a operating system send a request for something to be printed and then sends a second request before the first is done. 
+The OS will save the second request until the first is completed. 
+The operating system sends the second item in a place called a buffer. 
+This is a part of memory/ sotrage where items are put while they are waiting to be sent from an input device to an output device. 
